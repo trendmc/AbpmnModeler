@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AbpmnModeler.iml" filepath="$PROJECT_DIR$/AbpmnModeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prj.iml" filepath="$PROJECT_DIR$/Prj.iml" />
     </modules>
   </component>
 </project>
